@@ -1,1 +1,1 @@
-# Hand-Written-Digit-Recodnization
+# Hand-Written-Digit-Recognization
